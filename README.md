@@ -1,6 +1,6 @@
 # 💫About Me :
-My name is Kieu Manh Hai, born in 2004.
-I currently live in Ho Chi Minh City, Vietnam.
+My name is Kieu Manh Hai, born in 2004.<br>
+I currently live in Ho Chi Minh City, Vietnam.<br>
 I am studying at HUTECH – Ho Chi Minh City University of Technology.
 
 ## 🌐Socials
