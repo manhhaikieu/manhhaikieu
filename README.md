@@ -1,5 +1,4 @@
 # 🤴Manh Hai Kieu
-🤴 Manh Hai Kieu
 🎂 Born in 2004.<br>
 📍 Live in Ho Chi Minh City, Vietnam.<br>
 🏫 Studied at HCMC University of Technology.
